@@ -1,0 +1,5 @@
+Planes           Angle Between (Degrees)
+-------------  -------------------------
+Plane 1 and 2                    67.1546
+Plane 2 and 3                    94.6762
+Plane 1 and 3                    92.3424
